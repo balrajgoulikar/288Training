@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Sun Nov 17 15:21:06 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-016e-78c5-e7b3-000000b41358 
+on database directory C:\temp\MS\conv-cur\db_example with class loader java.net.URLClassLoader@acc7bd86 
+Loaded from file:/C:/Users/BALRAJDASHRATHRAJ/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=IBM Corporation
+java.runtime.version=8.0.5.10 - pwa6480sr5fp10-20180214_01(SR5 FP10)
+java.fullversion=8.0.5.10 - pwa6480sr5fp10-20180214_01(SR5 FP10)
+JRE 1.8.0 IBM J9 2.9 Windows 10 amd64-64 Compressed References 20180208_378436 (JIT enabled, AOT enabled)
+OpenJ9   - 39bb844
+OMR      - c04ccb2
+IBM      - 2321a81
+user.dir=C:\temp\MS\conv-cur
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
